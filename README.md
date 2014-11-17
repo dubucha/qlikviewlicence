@@ -1,0 +1,4 @@
+qlikviewlicence
+===============
+
+licença
